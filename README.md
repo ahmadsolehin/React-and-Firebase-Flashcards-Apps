@@ -1,6 +1,6 @@
 ## React-Flashcards 
 
-This application is in progress. Currently, the application is used for basic flashcard memorization of the Hanzi.  The latest version of this application is built using React.
+ Currently, the application is used for basic flashcard memorization of the Hanzi.  The latest version of this application is built using React.
 
 ![screenshot](https://github.com/wesdoyle/react-flashcards/blob/master/hanzil-demo-gif.gif)
 
